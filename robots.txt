@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theeteekee.joshuamcsorley.com/sitemap.xml
